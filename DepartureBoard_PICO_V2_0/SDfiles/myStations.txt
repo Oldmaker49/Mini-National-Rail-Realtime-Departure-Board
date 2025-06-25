@@ -1,0 +1,24 @@
+<name>Barnstaple</name><crs>BNP</crs>
+<name>Bodmin Parkway</name><crs>BOD</crs>
+<name>Bristol Temple Meads</name><crs>BRI</crs>
+<name>Colchester</name><crs>COL</crs>
+<name>Crewe</name><crs>CRE</crs>
+<name>Evesham</name><crs>EVE</crs>
+<name>Exeter St David's</name><crs>EXD</crs>
+<name>Glasgow Queen Street</name><crs>GLQ</crs>
+<name>Ipswich</name><crs>IPS</crs>
+<name>London Euston</name><crs>EUS</crs>
+<name>London Liverpool Street</name><crs>LST</crs>
+<name>London Paddington</name><crs>PAD</crs>
+<name>London Victoria</name><crs>VIC</crs>
+<name>New Cross</name><crs>NWX</crs>
+<name>Norwich</name><crs>NRW</crs>
+<name>Peterborough</name><crs>PBO</crs>
+<name>Rochford</name><crs>RFD</crs>
+<name>Southend Central</name><crs>SOC</crs>
+<name>Southend Victoria</name><crs>SOV</crs>
+<name>Stratford (London)</name><crs>SRA</crs>
+<name>Torquay</name><crs>TQY</crs>
+<name>Watford Junction</name><crs>WFJ</crs>
+<name>Wrexham General</name><crs>WRX</crs>
+<name>York</name><crs>YRK</crs>
